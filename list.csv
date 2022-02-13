@@ -1,2 +1,53 @@
-github organization,github repository,short description,developer intention,link
-haesleinhuepf,napari-pillow-image-processing,Process images using pillow from within napari,just playing,
+github organization,github repository,short description
+haesleinhuepf,napari-pillow-image-processing,Process images using pillow from within napari (experimental just playing plugin)
+haesleinhuepf,napari-mahotas-image-processing,Process images using mahotas from within napari (experimental just playing plugin)
+haesleinhuepf,napari-pyfast-image-processing,Process images using pyfast from within napari (experimental just playing plugin)
+haesleinhuepf,napari-webcam,View images from your webcam in napari (decommissioned plugin/ archived)
+kevinyamauchi,napari-skeleton-curator,skeleton curation plugin for napari
+kevinyamauchi,napari-spot-detector,A simple napari plugin for spot detection
+jni,napari-midi,Control napari with a USB MIDI controller
+jni,napariboard-proto,Prototype implementation of napari-integrated CNN training viewer
+alisterburt,napari-threedee,A suite of 3D interactivity tools for napari
+alisterburt,napari_etdb,napari interface for the Caltech electron tomography database
+fractal-napari-plugins-collection,napari-ijroi-reader,Reader for ImageJ ROI files
+fractal-napari-plugins-collection,napari_ptif_reader,Reader for multi-scale (pyramidal) TIFF files
+fractal-napari-plugins-collection,napari_addtional_viewport,Widget to add an additional viewport to visualize on a specific shape
+fractal-napari-plugins-collection,napari_hdf5_reader,Widget for multi-scale/multi-dimensional hdf5 files
+fractal-napari-plugins-collection,napari_tissuemaps_interface,Widget to stream images from a TissueMAPS server
+fractal-napari-plugins-collection,napari_xml_reader,Reader for a series of images enlisted within an XML files
+guiwitz,napari-annotation-project,Create projects in napari to annotate series of images and export annotations
+guiwitz,napari-morphodynamics,A napari plugin to use as interface for the morphodynamics package
+guiwitz,napari-convpaint,Segment images by pixel classification based on pre-trained convolutional layer feature extraction
+nipy,napari-nibabel,A napari plugin that uses nibabel to display medical images (NIFTI1 NIFTI2 ANALYZE Philips PAR/REC MINC1 MINC2 AFNI BRIK/HEAD and MGH/MGZ.)
+ilastik,napari-ilastik,ilastik plugin for napari
+haesleinhuepf,napari-minimal-plugin,minimal example plugin (training material)
+makepath,napari-xarray-spatial,napari plugin providing interface to xarray-spatial functions
+jayunruh,napari_jroitools,Napari plugins for reading and writing ImageJ roi files and creating image profiles.
+czbiohub,napari-mosquito-bb-annotations,Napari plugin for bounding box annotations
+will-moore,napari-idr,Napari plugin for opening images from idr.openmicroscopy.org
+DragaDoncila,napari-sentinel-zip,Plugin to allow loading of SENTINEL zips into napari directly
+gatoniel,napari-timeseries-opener-plugin,Simple plugin that opens separate .tif files as a 3-dimensional layer.
+PolarizedLightFieldMicroscopy,napari-LF,A temporary plugin with npe2 to use with napari in the process of developing a light field imaging plugin
+AEttinger,napari-labfill,Napari plugin for creating labels using floodfill.
+data-exp-lab,yt-napari,A napari plugin for reading data from yt
+data-exp-lab,napari-ytschema,experimental plugin for use with the yt schema
+sylvainprigent,napari-scixtracer,napari plugin for data management with sciXtracer library
+jojoelfe,napari-cistem,A napari plugin to inspect data within a cisTEM project
+miguelarbesu,napari-nmr-reader,A napari plugin to read NMR spectra
+adrtsc,napari-blob-detection,napari plugin for blob detection in images
+nygctech,PICASSO,Development of PICASSO plugin for napari
+psichen,napari-hsafm-browser,a napari plugin for viewing high-speed AFM movies
+L-Tellez,NaparIO,Napari plugin that provide better save/load for all opened layers
+cudmore,napari-mm,Napari plugin to load and visualize 3D image time series saved by Map Manager
+AbigailMcGovern,iterseg,napari plugin for iteratively improving 3D instance segmentation of cells (u-net x watershed)
+delnatan,napari-hdf5-hts,simple napari plugin to view multi-well images in HDF5 format
+manzt,patch-viewer,WIP: A napari plugin to view attention-based heatmaps for whole slide images
+sofroniewn,napari-segmentation,napari segmentation plugin
+sofroniewn,napari-detectron2,napari plugin for detectron2
+lowe-lab-ucl,napari-btrack,Napari plugin for btrack
+pattonw,napari-pssr,A plugin for training and applying pssr
+nel-lab,caiman-napari-prototype,This plugin interfaces with CaImAn CNMF using QProcess and displays the spatial components using napari.layers.shapes.
+DragaDoncila,napari-sentinel-to-zarr, Writer plugin for napari to allow saving Sentinel tiffs out to ome-zarr
+
+
+
