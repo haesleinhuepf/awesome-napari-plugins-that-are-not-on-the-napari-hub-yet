@@ -1,4 +1,4 @@
-# Awesome napari-plugins that are not on the napari-hub yet
+# Awesome napari-plugins that are not on the napari-hub (yet)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 

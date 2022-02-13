@@ -1,4 +1,4 @@
-# Awesome napari-plugins that are not on the napari-hub yet
+# Awesome napari-plugins that are not on the napari-hub (yet)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -16,9 +16,9 @@ Contributions are very welcome. If you want to add an entry to this list, please
 
 Process images using pillow from within napari
 
-Developer's intention: just playing
+**Developer's intention:** just playing
 
-Website: []()
+**Website:** []()
 
 ---
 
