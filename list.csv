@@ -48,6 +48,9 @@ lowe-lab-ucl,napari-btrack,Napari plugin for btrack
 pattonw,napari-pssr,A plugin for training and applying pssr
 nel-lab,caiman-napari-prototype,This plugin interfaces with CaImAn CNMF using QProcess and displays the spatial components using napari.layers.shapes.
 DragaDoncila,napari-sentinel-to-zarr, Writer plugin for napari to allow saving Sentinel tiffs out to ome-zarr
+jluethi,napari-feature-visualization,Visualizing feature measurements on label images in napari
+jluethi,napari-zarr-writer,Napari plugin to write zarr files
+
 
 
 
