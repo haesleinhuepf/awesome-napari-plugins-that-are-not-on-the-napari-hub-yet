@@ -50,6 +50,7 @@ nel-lab,caiman-napari-prototype,This plugin interfaces with CaImAn CNMF using QP
 DragaDoncila,napari-sentinel-to-zarr, Writer plugin for napari to allow saving Sentinel tiffs out to ome-zarr
 jluethi,napari-feature-visualization,Visualizing feature measurements on label images in napari
 jluethi,napari-zarr-writer,Napari plugin to write zarr files
+tlambert03,proto-skimage-widgets,Example adaptor between skimage magicgui and napari WORK IN PROGRESS
 
 
 
