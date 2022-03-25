@@ -6,6 +6,7 @@ This is a curated list of napari plugins, that are open-source but not on the [n
 
 Contributions to the list are very welcome. If you want to add an entry to this list or modify a description or link for example, please modify the `list.csv` file in a fork of this repository and send a pull-request. If you are new to pull-requests, you may be interested in this [blog post](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git/).
 
+The list is sorted alphabetically.
 ### [napari-annotation-project](https://github.com/guiwitz/napari-annotation-project)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -111,6 +112,21 @@ napari plugin for detectron2
 ---
 
 
+### [napari-feature-visualization](https://github.com/jluethi/napari-feature-visualization)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-feature-visualization.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/jluethi/napari-feature-visualization/branch/master/graph/badge.svg)](https://codecov.io/gh/jluethi/napari-feature-visualization)
+[![tests](https://github.com/jluethi/napari-feature-visualization/workflows/tests/badge.svg)](https://github.com/jluethi/napari-feature-visualization/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-feature-visualization.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/jluethi/napari-feature-visualization)](https://github.com/jluethi/napari-feature-visualization/releases)
+
+Visualizing feature measurements on label images in napari
+
+---
+
+
 ### [napari-hdf5-hts](https://github.com/delnatan/napari-hdf5-hts)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -197,6 +213,21 @@ ilastik plugin for napari
 [![](https://img.shields.io/github/release-date-pre/AbigailMcGovern/iterseg)](https://github.com/AbigailMcGovern/iterseg/releases)
 
 napari plugin for iteratively improving 3D instance segmentation of cells (u-net x watershed)
+
+---
+
+
+### [napari-labeling](https://github.com/Labelings/napari-labeling)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-labeling.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/Labelings/napari-labeling/branch/master/graph/badge.svg)](https://codecov.io/gh/Labelings/napari-labeling)
+[![tests](https://github.com/Labelings/napari-labeling/workflows/tests/badge.svg)](https://github.com/Labelings/napari-labeling/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-labeling.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/Labelings/napari-labeling)](https://github.com/Labelings/napari-labeling/releases)
+
+handling overlapping labels
 
 ---
 
@@ -531,6 +562,21 @@ Process images using pillow from within napari (experimental just playing plugin
 ---
 
 
+### [proto-skimage-widgets](https://github.com/tlambert03/proto-skimage-widgets)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/proto-skimage-widgets.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/tlambert03/proto-skimage-widgets/branch/master/graph/badge.svg)](https://codecov.io/gh/tlambert03/proto-skimage-widgets)
+[![tests](https://github.com/tlambert03/proto-skimage-widgets/workflows/tests/badge.svg)](https://github.com/tlambert03/proto-skimage-widgets/actions)
+[![Development Status](https://img.shields.io/pypi/status/proto-skimage-widgets.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/tlambert03/proto-skimage-widgets)](https://github.com/tlambert03/proto-skimage-widgets/releases)
+
+Example adaptor between skimage magicgui and napari WORK IN PROGRESS
+
+---
+
+
 ### [napari-pssr](https://github.com/pattonw/napari-pssr)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -636,6 +682,66 @@ skeleton curation plugin for napari
 ---
 
 
+### [napari-skimage-widgets](https://github.com/brisvag/napari-skimage-widgets)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-skimage-widgets.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/brisvag/napari-skimage-widgets/branch/master/graph/badge.svg)](https://codecov.io/gh/brisvag/napari-skimage-widgets)
+[![tests](https://github.com/brisvag/napari-skimage-widgets/workflows/tests/badge.svg)](https://github.com/brisvag/napari-skimage-widgets/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-skimage-widgets.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/brisvag/napari-skimage-widgets)](https://github.com/brisvag/napari-skimage-widgets/releases)
+
+Autogenerated napari widgets for scikit-image functions.
+
+---
+
+
+### [napari-sldy](https://github.com/adamltyson/napari-sldy)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-sldy.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/adamltyson/napari-sldy/branch/master/graph/badge.svg)](https://codecov.io/gh/adamltyson/napari-sldy)
+[![tests](https://github.com/adamltyson/napari-sldy/workflows/tests/badge.svg)](https://github.com/adamltyson/napari-sldy/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-sldy.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/adamltyson/napari-sldy)](https://github.com/adamltyson/napari-sldy/releases)
+
+Load slidebook .sldy files into napari
+
+---
+
+
+### [napari-spatial-statistics](https://github.com/jo-mueller/napari-spatial-statistics)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-spatial-statistics.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/jo-mueller/napari-spatial-statistics/branch/master/graph/badge.svg)](https://codecov.io/gh/jo-mueller/napari-spatial-statistics)
+[![tests](https://github.com/jo-mueller/napari-spatial-statistics/workflows/tests/badge.svg)](https://github.com/jo-mueller/napari-spatial-statistics/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-spatial-statistics.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/jo-mueller/napari-spatial-statistics)](https://github.com/jo-mueller/napari-spatial-statistics/releases)
+
+Analyze architecture of spatially distributed objects.
+
+---
+
+
+### [napari-split-blob-labels](https://github.com/Karol-G/napari-split-blob-labels)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-split-blob-labels.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/Karol-G/napari-split-blob-labels/branch/master/graph/badge.svg)](https://codecov.io/gh/Karol-G/napari-split-blob-labels)
+[![tests](https://github.com/Karol-G/napari-split-blob-labels/workflows/tests/badge.svg)](https://github.com/Karol-G/napari-split-blob-labels/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-split-blob-labels.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/Karol-G/napari-split-blob-labels)](https://github.com/Karol-G/napari-split-blob-labels/releases)
+
+An adaptive 3D brush for segmentation based on local region growing
+
+---
+
+
 ### [napari-spot-detector](https://github.com/kevinyamauchi/napari-spot-detector)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -647,6 +753,21 @@ skeleton curation plugin for napari
 [![](https://img.shields.io/github/release-date-pre/kevinyamauchi/napari-spot-detector)](https://github.com/kevinyamauchi/napari-spot-detector/releases)
 
 A simple napari plugin for spot detection
+
+---
+
+
+### [napari-storm](https://github.com/napari-storm/napari-storm)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-storm.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/napari-storm/napari-storm/branch/master/graph/badge.svg)](https://codecov.io/gh/napari-storm/napari-storm)
+[![tests](https://github.com/napari-storm/napari-storm/workflows/tests/badge.svg)](https://github.com/napari-storm/napari-storm/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-storm.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/napari-storm/napari-storm)](https://github.com/napari-storm/napari-storm/releases)
+
+STORM plugin
 
 ---
 
@@ -737,6 +858,21 @@ A napari plugin for reading data from yt
 [![](https://img.shields.io/github/release-date-pre/data-exp-lab/napari-ytschema)](https://github.com/data-exp-lab/napari-ytschema/releases)
 
 experimental plugin for use with the yt schema
+
+---
+
+
+### [napari-zarr-writer](https://github.com/jluethi/napari-zarr-writer)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-zarr-writer.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/jluethi/napari-zarr-writer/branch/master/graph/badge.svg)](https://codecov.io/gh/jluethi/napari-zarr-writer)
+[![tests](https://github.com/jluethi/napari-zarr-writer/workflows/tests/badge.svg)](https://github.com/jluethi/napari-zarr-writer/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-zarr-writer.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/jluethi/napari-zarr-writer)](https://github.com/jluethi/napari-zarr-writer/releases)
+
+Napari plugin to write zarr files
 
 ---
 
