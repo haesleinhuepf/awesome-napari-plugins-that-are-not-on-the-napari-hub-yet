@@ -58,4 +58,5 @@ napari-storm,napari-storm,STORM plugin
 jo-mueller,napari-spatial-statistics,Analyze architecture of spatially distributed objects.
 Labelings,napari-labeling,handling overlapping labels
 OpenPIV,napari-openpiv,particle image velocimetry
+AlexCoul,napari-spot-detection,spot detection
 
