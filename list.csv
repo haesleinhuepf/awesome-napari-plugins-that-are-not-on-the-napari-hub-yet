@@ -59,4 +59,5 @@ jo-mueller,napari-spatial-statistics,Analyze architecture of spatially distribut
 Labelings,napari-labeling,handling overlapping labels
 OpenPIV,napari-openpiv,particle image velocimetry
 AlexCoul,napari-spot-detection,spot detection
+sebi06,napari_czann_segment,Provides segmentation with a CZANN containing an ONNX model for sematic segmentation.
 
