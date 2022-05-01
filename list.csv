@@ -61,6 +61,8 @@ OpenPIV,napari-openpiv,particle image velocimetry
 AlexCoul,napari-spot-detection,spot detection
 sebi06,napari_czann_segment,Provides segmentation with a CZANN containing an ONNX model for sematic segmentation.
 guiwitz,napari-serialcellpose,batch processing for cellpose
+kevinyamauchi,feature-dashboard,A ptable plotting library
+
 
 
 
