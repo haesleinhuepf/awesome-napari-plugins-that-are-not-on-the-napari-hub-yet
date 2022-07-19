@@ -112,6 +112,21 @@ napari plugin for detectron2
 ---
 
 
+### [feature-dashboard](https://github.com/kevinyamauchi/feature-dashboard)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/feature-dashboard.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/kevinyamauchi/feature-dashboard/branch/master/graph/badge.svg)](https://codecov.io/gh/kevinyamauchi/feature-dashboard)
+[![tests](https://github.com/kevinyamauchi/feature-dashboard/workflows/tests/badge.svg)](https://github.com/kevinyamauchi/feature-dashboard/actions)
+[![Development Status](https://img.shields.io/pypi/status/feature-dashboard.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/kevinyamauchi/feature-dashboard)](https://github.com/kevinyamauchi/feature-dashboard/releases)
+
+A ptable plotting library
+
+---
+
+
 ### [napari-feature-visualization](https://github.com/jluethi/napari-feature-visualization)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -123,6 +138,36 @@ napari plugin for detectron2
 [![](https://img.shields.io/github/release-date-pre/jluethi/napari-feature-visualization)](https://github.com/jluethi/napari-feature-visualization/releases)
 
 Visualizing feature measurements on label images in napari
+
+---
+
+
+### [napari-griottes](https://github.com/BaroudLab/napari-griottes)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-griottes.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/BaroudLab/napari-griottes/branch/master/graph/badge.svg)](https://codecov.io/gh/BaroudLab/napari-griottes)
+[![tests](https://github.com/BaroudLab/napari-griottes/workflows/tests/badge.svg)](https://github.com/BaroudLab/napari-griottes/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-griottes.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/BaroudLab/napari-griottes)](https://github.com/BaroudLab/napari-griottes/releases)
+
+meshes between neighbors
+
+---
+
+
+### [guanine-crystal-analysis](https://github.com/BiAPoL/guanine-crystal-analysis)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/guanine-crystal-analysis.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/BiAPoL/guanine-crystal-analysis/branch/master/graph/badge.svg)](https://codecov.io/gh/BiAPoL/guanine-crystal-analysis)
+[![tests](https://github.com/BiAPoL/guanine-crystal-analysis/workflows/tests/badge.svg)](https://github.com/BiAPoL/guanine-crystal-analysis/actions)
+[![Development Status](https://img.shields.io/pypi/status/guanine-crystal-analysis.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/BiAPoL/guanine-crystal-analysis)](https://github.com/BiAPoL/guanine-crystal-analysis/releases)
+
+A plugin for the guanine crystal segmentation classification and characterization in the zebrafish eye
 
 ---
 
@@ -228,6 +273,21 @@ napari plugin for iteratively improving 3D instance segmentation of cells (u-net
 [![](https://img.shields.io/github/release-date-pre/Labelings/napari-labeling)](https://github.com/Labelings/napari-labeling/releases)
 
 handling overlapping labels
+
+---
+
+
+### [napari-labeller](https://github.com/Hekstra-Lab/napari-labeller)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-labeller.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/Hekstra-Lab/napari-labeller/branch/master/graph/badge.svg)](https://codecov.io/gh/Hekstra-Lab/napari-labeller)
+[![tests](https://github.com/Hekstra-Lab/napari-labeller/workflows/tests/badge.svg)](https://github.com/Hekstra-Lab/napari-labeller/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-labeller.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/Hekstra-Lab/napari-labeller)](https://github.com/Hekstra-Lab/napari-labeller/releases)
+
+A plugin for doing manual instance segmentation.
 
 ---
 
@@ -363,6 +423,21 @@ Napari plugin for bounding box annotations
 [![](https://img.shields.io/github/release-date-pre/fractal-napari-plugins-collection/napari_addtional_viewport)](https://github.com/fractal-napari-plugins-collection/napari_addtional_viewport/releases)
 
 Widget to add an additional viewport to visualize on a specific shape
+
+---
+
+
+### [napari_czann_segment](https://github.com/sebi06/napari_czann_segment)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari_czann_segment.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/sebi06/napari_czann_segment/branch/master/graph/badge.svg)](https://codecov.io/gh/sebi06/napari_czann_segment)
+[![tests](https://github.com/sebi06/napari_czann_segment/workflows/tests/badge.svg)](https://github.com/sebi06/napari_czann_segment/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari_czann_segment.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/sebi06/napari_czann_segment)](https://github.com/sebi06/napari_czann_segment/releases)
+
+Provides segmentation with a CZANN containing an ONNX model for sematic segmentation.
 
 ---
 
@@ -517,6 +592,21 @@ A napari plugin to read NMR spectra
 ---
 
 
+### [napari-openpiv](https://github.com/OpenPIV/napari-openpiv)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-openpiv.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/OpenPIV/napari-openpiv/branch/master/graph/badge.svg)](https://codecov.io/gh/OpenPIV/napari-openpiv)
+[![tests](https://github.com/OpenPIV/napari-openpiv/workflows/tests/badge.svg)](https://github.com/OpenPIV/napari-openpiv/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-openpiv.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/OpenPIV/napari-openpiv)](https://github.com/OpenPIV/napari-openpiv/releases)
+
+particle image velocimetry
+
+---
+
+
 ### [patch-viewer](https://github.com/manzt/patch-viewer)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -667,6 +757,21 @@ Plugin to allow loading of SENTINEL zips into napari directly
 ---
 
 
+### [napari-serialcellpose](https://github.com/guiwitz/napari-serialcellpose)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-serialcellpose.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/guiwitz/napari-serialcellpose/branch/master/graph/badge.svg)](https://codecov.io/gh/guiwitz/napari-serialcellpose)
+[![tests](https://github.com/guiwitz/napari-serialcellpose/workflows/tests/badge.svg)](https://github.com/guiwitz/napari-serialcellpose/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-serialcellpose.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/guiwitz/napari-serialcellpose)](https://github.com/guiwitz/napari-serialcellpose/releases)
+
+batch processing for cellpose
+
+---
+
+
 ### [napari-skeleton-curator](https://github.com/kevinyamauchi/napari-skeleton-curator)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -693,6 +798,21 @@ skeleton curation plugin for napari
 [![](https://img.shields.io/github/release-date-pre/brisvag/napari-skimage-widgets)](https://github.com/brisvag/napari-skimage-widgets/releases)
 
 Autogenerated napari widgets for scikit-image functions.
+
+---
+
+
+### [napari-sklearn-decomposition](https://github.com/jdeschamps/napari-sklearn-decomposition)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-sklearn-decomposition.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/jdeschamps/napari-sklearn-decomposition/branch/master/graph/badge.svg)](https://codecov.io/gh/jdeschamps/napari-sklearn-decomposition)
+[![tests](https://github.com/jdeschamps/napari-sklearn-decomposition/workflows/tests/badge.svg)](https://github.com/jdeschamps/napari-sklearn-decomposition/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-sklearn-decomposition.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/jdeschamps/napari-sklearn-decomposition)](https://github.com/jdeschamps/napari-sklearn-decomposition/releases)
+
+matrix decomposition algorithms from sklearn.decomposition within napari.
 
 ---
 
@@ -738,6 +858,21 @@ Analyze architecture of spatially distributed objects.
 [![](https://img.shields.io/github/release-date-pre/Karol-G/napari-split-blob-labels)](https://github.com/Karol-G/napari-split-blob-labels/releases)
 
 An adaptive 3D brush for segmentation based on local region growing
+
+---
+
+
+### [napari-spot-detection](https://github.com/AlexCoul/napari-spot-detection)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-spot-detection.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/AlexCoul/napari-spot-detection/branch/master/graph/badge.svg)](https://codecov.io/gh/AlexCoul/napari-spot-detection)
+[![tests](https://github.com/AlexCoul/napari-spot-detection/workflows/tests/badge.svg)](https://github.com/AlexCoul/napari-spot-detection/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-spot-detection.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/AlexCoul/napari-spot-detection)](https://github.com/AlexCoul/napari-spot-detection/releases)
+
+spot detection
 
 ---
 
