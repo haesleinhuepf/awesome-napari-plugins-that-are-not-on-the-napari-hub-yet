@@ -63,7 +63,9 @@ sebi06,napari_czann_segment,Provides segmentation with a CZANN containing an ONN
 guiwitz,napari-serialcellpose,batch processing for cellpose
 kevinyamauchi,feature-dashboard,A ptable plotting library
 jdeschamps,napari-sklearn-decomposition,matrix decomposition algorithms from sklearn.decomposition within napari.
-BaroudLab,napari-griottes,mesehs between neighbors
+BaroudLab,napari-griottes,meshes between neighbors
+Hekstra-Lab,napari-labeller,A plugin for doing manual instance segmentation.
+
 
 
 
