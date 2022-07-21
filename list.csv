@@ -66,8 +66,7 @@ jdeschamps,napari-sklearn-decomposition,matrix decomposition algorithms from skl
 BaroudLab,napari-griottes,meshes between neighbors
 Hekstra-Lab,napari-labeller,A plugin for doing manual instance segmentation.
 BiAPoL,guanine-crystal-analysis,A plugin for the guanine crystal segmentation classification and characterization in the zebrafish eye
-
-
+OpenPIV,napari-openpiv, particle image velocimetry
 
 
 
