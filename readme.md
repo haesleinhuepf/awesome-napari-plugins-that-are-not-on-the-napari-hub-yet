@@ -412,6 +412,21 @@ Napari plugin for bounding box annotations
 ---
 
 
+### [napari-n2v](https://github.com/juglab/napari-n2v)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-n2v.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/juglab/napari-n2v/branch/master/graph/badge.svg)](https://codecov.io/gh/juglab/napari-n2v)
+[![tests](https://github.com/juglab/napari-n2v/workflows/tests/badge.svg)](https://github.com/juglab/napari-n2v/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-n2v.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/juglab/napari-n2v)](https://github.com/juglab/napari-n2v/releases)
+
+A self-supervised denoising algorithm now usable by all in napari
+
+---
+
+
 ### [napari_addtional_viewport](https://github.com/fractal-napari-plugins-collection/napari_addtional_viewport)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -438,6 +453,21 @@ Widget to add an additional viewport to visualize on a specific shape
 [![](https://img.shields.io/github/release-date-pre/sebi06/napari_czann_segment)](https://github.com/sebi06/napari_czann_segment/releases)
 
 Provides segmentation with a CZANN containing an ONNX model for sematic segmentation.
+
+---
+
+
+### [napari_denoiseg](https://github.com/juglab/napari_denoiseg)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari_denoiseg.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/juglab/napari_denoiseg/branch/master/graph/badge.svg)](https://codecov.io/gh/juglab/napari_denoiseg)
+[![tests](https://github.com/juglab/napari_denoiseg/workflows/tests/badge.svg)](https://github.com/juglab/napari_denoiseg/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari_denoiseg.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/juglab/napari_denoiseg)](https://github.com/juglab/napari_denoiseg/releases)
+
+A napari plugin for self-supervised denoising and segmentation of microscopy images using the DenoiSeg method
 
 ---
 
@@ -588,6 +618,21 @@ A napari plugin that uses nibabel to display medical images (NIFTI1 NIFTI2 ANALY
 [![](https://img.shields.io/github/release-date-pre/miguelarbesu/napari-nmr-reader)](https://github.com/miguelarbesu/napari-nmr-reader/releases)
 
 A napari plugin to read NMR spectra
+
+---
+
+
+### [napari-openpiv](https://github.com/OpenPIV/napari-openpiv)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-openpiv.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/OpenPIV/napari-openpiv/branch/master/graph/badge.svg)](https://codecov.io/gh/OpenPIV/napari-openpiv)
+[![tests](https://github.com/OpenPIV/napari-openpiv/workflows/tests/badge.svg)](https://github.com/OpenPIV/napari-openpiv/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-openpiv.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/OpenPIV/napari-openpiv)](https://github.com/OpenPIV/napari-openpiv/releases)
+
+ particle image velocimetry
 
 ---
 
@@ -772,6 +817,21 @@ batch processing for cellpose
 ---
 
 
+### [napari-skeleton-analysis](https://github.com/haesleinhuepf/napari-skeleton-analysis)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-skeleton-analysis.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/haesleinhuepf/napari-skeleton-analysis/branch/master/graph/badge.svg)](https://codecov.io/gh/haesleinhuepf/napari-skeleton-analysis)
+[![tests](https://github.com/haesleinhuepf/napari-skeleton-analysis/workflows/tests/badge.svg)](https://github.com/haesleinhuepf/napari-skeleton-analysis/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-skeleton-analysis.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/haesleinhuepf/napari-skeleton-analysis)](https://github.com/haesleinhuepf/napari-skeleton-analysis/releases)
+
+ skeleton analysis
+
+---
+
+
 ### [napari-skeleton-curator](https://github.com/kevinyamauchi/napari-skeleton-curator)
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
@@ -888,6 +948,21 @@ spot detection
 [![](https://img.shields.io/github/release-date-pre/kevinyamauchi/napari-spot-detector)](https://github.com/kevinyamauchi/napari-spot-detector/releases)
 
 A simple napari plugin for spot detection
+
+---
+
+
+### [napari-stable-diffusion](https://github.com/kephale/napari-stable-diffusion)
+
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-mm)](https://napari-hub.org/plugins/napari-mm)
+[![PyPI](https://img.shields.io/pypi/v/napari-stable-diffusion.svg?color=green)](https://pypi.org/project/napari-brightness-contrast)
+
+[![codecov](https://codecov.io/gh/kephale/napari-stable-diffusion/branch/master/graph/badge.svg)](https://codecov.io/gh/kephale/napari-stable-diffusion)
+[![tests](https://github.com/kephale/napari-stable-diffusion/workflows/tests/badge.svg)](https://github.com/kephale/napari-stable-diffusion/actions)
+[![Development Status](https://img.shields.io/pypi/status/napari-stable-diffusion.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![](https://img.shields.io/github/release-date-pre/kephale/napari-stable-diffusion)](https://github.com/kephale/napari-stable-diffusion/releases)
+
+A demo of stable diffusion in napari
 
 ---
 
