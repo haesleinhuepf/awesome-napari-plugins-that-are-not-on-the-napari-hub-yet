@@ -71,3 +71,4 @@ haesleinhuepf,napari-skeleton-analysis, skeleton analysis
 kephale,napari-stable-diffusion,A demo of stable diffusion in napari
 juglab,napari-n2v,A self-supervised denoising algorithm now usable by all in napari
 juglab,napari_denoiseg,A napari plugin for self-supervised denoising and segmentation of microscopy images using the DenoiSeg method
+BIOP,napari-figure,Making Figure with napari more easily
